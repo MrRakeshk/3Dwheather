@@ -55,11 +55,11 @@ export default function AppTitle({ locationStatus }) {
       <h1>
         <GitHub />
         <a
-          href="https://github.com/kentshenlim/MrWeather"
+          href="https://github.com/MrRakeshk/3Dwheather"
           target="_blank"
           rel="noreferrer"
         >
-          &nbsp;MrWeather
+          &nbsp;3DWeather
         </a>
       </h1>
       <img
