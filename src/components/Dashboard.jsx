@@ -18,7 +18,7 @@ const Wrapper = styled.div`
   border-bottom: 3px solid;
   border-image: linear-gradient(
       to right,
-      ${color.secondary} 50%,
+      ${color.secondary} 90%,
       transparent 50%
     )
     100% 1;
