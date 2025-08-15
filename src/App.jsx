@@ -64,7 +64,7 @@ const ToggleButton = styled.button`
 `;
 
 function App() {
-  const [location, setLocation] = useState('london');
+  const [location, setLocation] = useState('chennai');
   const [isLoadingModel, setIsLoadingModel] = useState(true);
   const [data, setData] = useState(null);
   const [isTempC, setIsTempC] = useState(true);
