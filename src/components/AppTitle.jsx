@@ -62,18 +62,7 @@ export default function AppTitle({ locationStatus }) {
           &nbsp;3DWeather
         </a>
       </h1>
-      <img
-        src={mrWeather}
-        alt="MrWeather Icon"
-        draggable={false}
-        className={
-          locationStatus == 'loading'
-            ? 'rotate'
-            : locationStatus == 'error'
-            ? 'inverted'
-            : ''
-        }
-      />
+     
     </Wrapper>
   );
 }
