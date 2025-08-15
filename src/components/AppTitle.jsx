@@ -63,7 +63,7 @@ export default function AppTitle({ locationStatus }) {
         </a>
       </h1>
       <img
-        src={3DWeather}
+        src={MrWeather}
         alt="MrWeather Icon"
         draggable={false}
         className={
